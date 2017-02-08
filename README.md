@@ -21,8 +21,8 @@ Office hours: TBD
 
 
 
-Class 1: Course Intro + Installation:
-=============================================
+***Class 1: Course Intro + Installation:***
+
 
 *	Class intro: [slides](https://github.com/betamore/datasciencew17/blob/master/slides/DS_courseintro.pdf)
 *	Class 1 Notes: [slides](https://github.com/betamore/datasciencew17/blob/master/slides/DS_lecture1.pdf)
@@ -32,6 +32,20 @@ Class 1: Course Intro + Installation:
 * 	Think like a [computer scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
 * 	Tons of additional resources [here](https://github.com/betamore/datasciencew17/blob/master/notes/additional_resources.md)
 * 	Intro to [course project](https://github.com/betamore/datasciencew17/blob/master/notes/course_project.md)
+
+
+***Class 2: Command Line + Python Basics: ***
+
+*	GA Command Line [Tutorial](http://generalassembly.github.io/prework/cl/#/)
+*	Git [Tutorial](https://try.github.io/levels/1/challenges/1)
+*	[First](https://github.com/betamore/datasciencew17/blob/master/notebooks/01.ipynb), [Second](https://github.com/betamore/datasciencew17/blob/master/notebooks/02.ipynb), [Third](https://github.com/betamore/datasciencew17/blob/master/notebooks/03.ipynb), [Fourth](https://github.com/betamore/datasciencew17/blob/master/notebooks/04.ipynb) Python Basics notebooks
+
+
+***Class 3: Python Basics Pt. 2:***
+
+*	[Fifth](https://github.com/betamore/datasciencew17/blob/master/notebooks/05.ipynb), [Sixth](https://github.com/betamore/datasciencew17/blob/master/notebooks/06.ipynb), [Seventh](https://github.com/betamore/datasciencew17/blob/master/notebooks/07.ipynb), and [Review](https://github.com/betamore/datasciencew17/blob/master/notebooks/python-basics.ipynb) Python Basics notebooks
+*	
+
 
 
 
