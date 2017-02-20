@@ -34,7 +34,7 @@ Office hours: TBD
 * 	Intro to [course project](https://github.com/betamore/datasciencew17/blob/master/notes/course_project.md)
 
 
-***Class 2: Command Line + Python Basics: ***
+***Class 2: Command Line + Python Basics:***
 
 *	GA Command Line [Tutorial](http://generalassembly.github.io/prework/cl/#/)
 *	Git [Tutorial](https://try.github.io/levels/1/challenges/1)
@@ -44,6 +44,13 @@ Office hours: TBD
 ***Class 3: Python Basics Pt. 2:***
 
 *	[Fifth](https://github.com/betamore/datasciencew17/blob/master/notebooks/05.ipynb), [Sixth](https://github.com/betamore/datasciencew17/blob/master/notebooks/06.ipynb), [Seventh](https://github.com/betamore/datasciencew17/blob/master/notebooks/07.ipynb), and [Review](https://github.com/betamore/datasciencew17/blob/master/notebooks/python-basics.ipynb) Python Basics notebooks
+*	[Numpy practice](https://github.com/betamore/datasciencew17/blob/master/notebooks/np-practice.ipynb), [numpy review](https://github.com/betamore/datasciencew17/blob/master/notebooks/numpy-review.ipynb)
+
+
+***Class 4: Intro to Pandas:***
+
+*	[Intro to Pandas Notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/02-pandas.ipynb)
+*	[Pandas Lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/02_pandas_lab.ipynb)
 *	
 
 
