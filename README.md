@@ -51,7 +51,10 @@ Office hours: TBD
 
 *	[Intro to Pandas Notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/02-pandas.ipynb)
 *	[Pandas Lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/02_pandas_lab.ipynb)
-*	
+
+***Class 5: Data Viz Pt. 1***
+
+* [Visualization notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/03-visualisation.ipynb)
 
 
 
