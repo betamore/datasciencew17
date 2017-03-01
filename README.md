@@ -54,7 +54,9 @@ Office hours: TBD
 
 ***Class 5: Data Viz Pt. 1***
 
+* [Writing functions notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/02_practice_exercises.ipynb)
 * [Visualization notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/03-visualisation.ipynb)
+* [Examples of d3.js](https://github.com/d3/d3/wiki/Gallery)
 
 
 
