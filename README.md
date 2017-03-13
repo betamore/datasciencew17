@@ -58,6 +58,23 @@ Office hours: TBD
 * [Visualization notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/03-visualisation.ipynb)
 * [Examples of d3.js](https://github.com/d3/d3/wiki/Gallery)
 
+***Class 6: Human Learning and Data Exploration:***
+
+* [Solutions to writing functions nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/02_practice_exercises-solution.ipynb)
+* [Iris dataset exploration/Human Learning](https://github.com/betamore/datasciencew17/blob/master/notebooks/04_iris_prework.ipynb)
+* [Linear Regression as an exploratory tool](https://github.com/betamore/datasciencew17/blob/master/notebooks/04-linear_regression.ipynb)
+
+
+***Class 7: Intro to ML and Bias Variance Tradeoff***
+
+* [Intro to ML slides](https://github.com/betamore/datasciencew17/blob/master/slides/DS_Lecture2.pdf)
+* [Linear Regression for Prediction](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_linear_regression.ipynb)
+* [Bias Variance Tradeoff](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_bias_variance_tradeoff.ipynb)
+
+***Class 8: Model Evaluation and KNN***
+
+
+
 
 
 
