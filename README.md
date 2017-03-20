@@ -70,8 +70,21 @@ Office hours: TBD
 * [Intro to ML slides](https://github.com/betamore/datasciencew17/blob/master/slides/DS_Lecture2.pdf)
 * [Linear Regression for Prediction](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_linear_regression.ipynb)
 * [Bias Variance Tradeoff](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_bias_variance_tradeoff.ipynb)
+*  [Explanation of Bias Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
-***Class 8: Model Evaluation and KNN***
+***Class 8: K-Nearest Neighbors***
+
+* [Numpy references](https://github.com/betamore/datasciencew17/blob/master/notebooks/04_numpy_ref.ipynb)
+* [Sklearn KNN notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/04_sklearn_knn.ipynb)
+* [KNN Lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/04_knn_lab.ipynb)
+* [Model Evaluation](https://github.com/betamore/datasciencew17/blob/master/notebooks/05_model_evaluation.ipynb)
+* [Interesting article on p-value hacking](https://www.dailydot.com/parsec/data-manipulation-tool-science-p-hacking/)
+
+***Class 9: Logistic Regression and Titanic***
+
+* [Logistic Regression notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/06_logistic_regression.ipynb)
+* [Titanic Lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/06_titanic.md)
+
 
 
 
