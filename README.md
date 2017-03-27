@@ -87,10 +87,15 @@ Office hours: TBD
 
 ***Class 10: Getting data from API and Web***
 
-[Getting data from APIs](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_getting_data_from_api.ipynb)
-[Getting data from web](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_getting_data_from_web.ipynb)
-[Getting data lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_getting_data_lab.ipynb)
-[Regular expression examples](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_regex_example.ipynb)
+* [Getting data from APIs](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_getting_data_from_api.ipynb)
+* [Getting data from web](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_getting_data_from_web.ipynb)
+* [Getting data lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_getting_data_lab.ipynb)
+* [Regular expression examples](https://github.com/betamore/datasciencew17/blob/master/notebooks/03_regex_example.ipynb)
+
+***Class 11: Natural Language Processing***
+
+* [NLP Notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/07_nlp.ipynb)
+* [NLP Lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/07_nlp_lab.ipynb)
 
 
 
