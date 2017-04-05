@@ -97,6 +97,17 @@ Office hours: TBD
 * [NLP Notebook](https://github.com/betamore/datasciencew17/blob/master/notebooks/07_nlp.ipynb)
 * [NLP Lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/07_nlp_lab.ipynb)
 
+***Class 12: Data Mining Review, Naive Bayes, and AUC Evaluation***:
+
+* [NLP Lab Solutions](https://github.com/betamore/datasciencew17/blob/master/notebooks/07_nlp_lab_solutions.ipynb)
+* [NB/AUC Spam Classifier](https://github.com/betamore/datasciencew17/blob/master/notebooks/08_naive_bayes_roc_auc.ipynb)
+* [Advanced Sklearn](https://github.com/betamore/datascienceF16/blob/master/notebooks/09_advanced_sklearn.ipynb)
+* [Data Mining Review](https://github.com/betamore/datascienceF16/blob/master/notebooks/06-data_mining_sklearn.ipynb)
+
+***Class 13: Review!***
+
+* [Review nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/10_review.ipynb	)
+
 
 
 
