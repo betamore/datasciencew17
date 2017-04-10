@@ -108,6 +108,16 @@ Office hours: TBD
 
 * [Review nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/10_review.ipynb	)
 
+***Class 14: Decision Trees***
+
+* [Review notebooks solutions](https://github.com/betamore/datasciencew17/blob/master/notebooks/10_review-solutions.ipynb)
+* [Decision Trees](https://github.com/betamore/datasciencew17/blob/master/notebooks/11_decision_trees.ipynb)
+
+***Class 15: Feature Scaling and Model Importance***
+* [Feature scaling nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/12-feature_scaling_model_importance.ipynb)
+
+
+
 
 
 
