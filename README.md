@@ -119,6 +119,13 @@ Office hours: TBD
 * [ML Cheat Sheet](http://ryancompton.net/assets/ml_cheat_sheet/supervised_learning.html)
 * [Decision Trees Lab](https://github.com/betamore/datasciencew17/blob/master/notebooks/decisiontrees_lab.ipynb)
 
+***Class 16: Ensemble Learning and Recommendation Systems***
+
+* [Layman's Random Forest](https://www.quora.com/How-does-randomization-in-a-random-forest-work/answer/Edwin-Chen-1)
+* [Ensembling nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/12_ensembling.ipynb)
+* [Recommendation Systems](https://github.com/betamore/datasciencew17/blob/master/notebooks/recommender_systems.ipynb)
+* [Recommendation/filtering slides](https://github.com/betamore/datasciencew17/blob/master/slides/DS_lecture5.pdf)
+
 
 
 
