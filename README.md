@@ -126,6 +126,14 @@ Office hours: TBD
 * [Recommendation Systems](https://github.com/betamore/datasciencew17/blob/master/notebooks/recommender_systems.ipynb)
 * [Recommendation/filtering slides](https://github.com/betamore/datasciencew17/blob/master/slides/DS_lecture5.pdf)
 
+***Class 17: Unsupervised Learning: K-means clustering***
+
+* [K-means nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/14_clustering.ipynb)
+* [Clustering slides](https://github.com/betamore/datasciencew17/blob/master/slides/DS_lecture4.pdf)
+
+***Class 18: Unsupervised Learning: Dimensionality Reduction***
+
+
 
 
 
