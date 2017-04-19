@@ -133,6 +133,9 @@ Office hours: TBD
 
 ***Class 18: Unsupervised Learning: Dimensionality Reduction***
 
+* [PCA Explained Visually](http://setosa.io/ev/principal-component-analysis/)
+* [Principal Component Analysis nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/13_pca.ipynb)
+* [Time series! finally](https://github.com/betamore/datasciencew17/blob/master/notebooks/05-time_series.ipynb)
 
 
 
