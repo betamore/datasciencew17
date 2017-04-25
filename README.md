@@ -150,6 +150,12 @@ Office hours: TBD
 * [Support vector machines nb](https://github.com/betamore/datasciencew17/blob/master/notebooks/14-support_vector_machines.ipynb)
 * [Time series! finally](https://github.com/betamore/datasciencew17/blob/master/notebooks/05-time_series.ipynb)
 
+***Class 22: Relational databases***
+
+* [Relational databases/sql](https://github.com/betamore/datasciencew17/blob/master/notebooks/17-relational_databases.ipynb)
+* Bring your data and lets work on projects!!
+
+
 
 
 
